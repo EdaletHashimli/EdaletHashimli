@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **AFİS**
 
 - 📫 How to reach me **edalaethashml@gmail.com**
-- <img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95" alt="bootstrap" width="140" height="140"/> </a> 
+- <img src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95" alt="bootstrap" /> </a> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
