@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edalethashimli&" alt="edalethashimli" /></p>
 
-![snake animation](https://github.com/<seu EdaletHashimli>/<seu EdaletHashimli>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/EdaletHashimli/EdaletHashimli/blob/output/github-contribution-grid-snake2.svg)
