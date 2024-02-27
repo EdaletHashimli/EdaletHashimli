@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adalat Hashimli</h1>
 <h3 align="center">Im a passionate Backend Developer</h3>
-<img align="right" alt="Coding" with="400" src="https://forum.arcaneodyssey.dev/uploads/default/original/3X/4/9/497ddb3476305806a45424bb76fe70a3db4e4b03.gif"/>
+<img align="right" alt="Coding" with="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eda&label=Profile%20views&color=0e75b6&style=flat" alt="eda"/></p>
 
