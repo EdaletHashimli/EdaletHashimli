@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **AFİS**
 
 - 📫 How to reach me **edalaethashml@gmail.com**
-
+https://miro.medium.com/v2/resize:fit:1208/0*CbJvtNMVUVp-FfDo.gif
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
