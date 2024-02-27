@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **edalaethashml@gmail.com**
 - <img align="right" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95" alt="bootstrap" /> </a> 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 </p>
 
