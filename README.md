@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on  E-Ticket
 - 👯 I’m looking to collaborate on **AFİS**
-- 🤝 I’m looking for help with **with anyone who passionate about building great things**
+- 🤝 I’m looking for help with **anyone who passionate about building great things**
 - 🌱 I’m currently learning **Advanced programming skills with .Net**
 - 📫 How to reach me **edalaethashml@gmail.com**
 .
