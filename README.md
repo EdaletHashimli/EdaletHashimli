@@ -5,10 +5,9 @@
     <p align="left">
       <img src="https://komarev.com/ghpvc/?username=eda&label=Profile%20views&color=0e75b6&style=flat" alt="eda" />
     </p>
-    <ul>
-      <li>🔭 I’m currently working on <strong>E-Ticket</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>AFİS</strong></li>
-      <li>📫 How to reach me **edalaethashml@gmail.com**</li>
+  -🔭 I’m currently working on E-Ticket
+  -👯 I’m looking to collaborate on AFİS
+  -📫 How to reach me **edalaethashml@gmail.com**
     </ul>
   </div>
   <div>
