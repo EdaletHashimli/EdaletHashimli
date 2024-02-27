@@ -8,7 +8,7 @@
     <ul>
       <li>🔭 I’m currently working on <strong>E-Ticket</strong></li>
       <li>👯 I’m looking to collaborate on <strong>AFİS</strong></li>
-      <li>📫 How to reach me <strong>edalaethashml@gmail.com</strong></li>
+      <li>📫 How to reach me **edalaethashml@gmail.com**</li>
     </ul>
   </div>
   <div>
