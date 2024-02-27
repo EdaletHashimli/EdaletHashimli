@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adalat Hashimli</h1>
 <h3 align="center">Im a passionate Backend Developer</h3>
-<div display="block"><div>
+<div style="display: flex; flex-direction: row;"><div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eda&label=Profile%20views&color=0e75b6&style=flat" alt="eda" /> </p>
 
 - 🔭 I’m currently working on **E-Ticket**
