@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adalat Hashimli</h1>
 <h3 align="center">I'm a Backend developer.</h3>
-<img align="right" alt="Coding" with="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" with="400" src="https://qph.cf2.quoracdn.net/main-qimg-c0c2264911d8cd4a688acd0542240f95 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eda&label=Profile%20views&color=0e75b6&style=flat" alt="eda" /> </p>
 
